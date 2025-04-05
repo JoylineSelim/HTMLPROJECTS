@@ -684,7 +684,10 @@ grid-template-columns: 1fr;
 }
 
 .contact-button:hover {
-    background-color: white;
+    background-color: #b0c4de;
+    color: black;
+    font-weight: bold;
+    border: #b0c4de;
 }
 
 .contact-image {
